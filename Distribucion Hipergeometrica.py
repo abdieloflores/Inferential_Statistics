@@ -2,6 +2,9 @@ import numpy as np
 from scipy import stats
 
 #help(stats.hypergeom)
+
+#.pmf = Densidad de Probabilidad
+#.cdf = Acumulada de Probabilidad
 """
 M = #Tamaño de la población
 n = #Numero de fracasos

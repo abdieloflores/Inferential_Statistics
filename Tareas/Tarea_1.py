@@ -1,6 +1,5 @@
 #ESTADISTICA INFERENCIAL / TAREA 1
 
-import os
 import numpy as np
 from scipy import stats
 
@@ -17,9 +16,10 @@ print("********TAREA 1********")
 
 #Ejercicio 5.1 ----------------------------------------
 print("\nEJERCICIO 5.1 *************************************")
+print("Este copiarlo a latex directo del codigo.")
 
-print("La media es \mu = \frac{1}{k}\\sum_{i^1}^{k}x_{i}")
-print("La varianza es \mu = \frac{1}{k}\sum_{i^1}^{k}\left ( x_{i}-\mu  \right )^{2}")
+#print("La media es \mu = \frac{1}{k}\\sum_{i^1}^{k}x_{i}")
+#print("La varianza es \mu = \frac{1}{k}\sum_{i^1}^{k}\left ( x_{i}-\mu  \right )^{2}")
 
 #Ejercicio 5.3 ----------------------------------------
 print("\nEJERCICIO 5.3 *************************************")
@@ -124,7 +124,8 @@ print("Varianza: ",varianza)
 
 #Ejercicio 5.19
 print("\nEJERCICIO 5.19 *************************************")
-print("Revisar en clase----")
+print("Este copiarlo a latex directo del codigo.")
+#print("f(x_{1},x_{2},x_{3})=\left ( \frac{n}{x_{1},x_{2},x_{3}} \right )0.35^{x_{1}}0.05^{x_{2}}0.60^{x_{3}}")
 
 #Ejercicio 5.21
 print("\nEJERCICIO 5.21 *************************************")
